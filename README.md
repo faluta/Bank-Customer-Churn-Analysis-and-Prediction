@@ -2,7 +2,7 @@
 ## by Faluta Opeyemi
 
 ## Important Note
-Kindly note this analysis was done using Jupyterlite notebook and as such would require you to modify the codes by removing piplite wherever it surfaces. 
+This analysis was done using Jupyterlite notebook and as such would require you to modify the codes by removing piplite wherever it surfaces. 
 Also, the GUI section of this project will not run using the Jupyterlite notebook. This section must be ran on the notebook on your local computer as opposed to the online version called Jupyterlite 
 
 ## Dataset
@@ -51,13 +51,12 @@ xi.   The Bank needs to improve its satisfaction score across board as the avera
 
 ## Recommendations
 
-i.   Customer Onboarding: A recommended course of action is for the Bank to strengthen its onboarding programmes for new clients and measure the effectiveness on customer retention.
-ii.  Offer Personalized Products: In addition to having a great customer onboarding, the Bank should review or strengthen their personalized products, incentivize bundle packages and services that better meet the needs of different customer segments.
-iii. Informative Newsletters: Based on the analysed data, it is important for the Bank to disseminate information to customers in an educative format through newsletters.Insights can be shared on spending habits, optimized credit card usage and ways to boost credit scores and the dangers of utilizing a high number of Banking products without fully understanding the product 
-iv.  Know Your Customer (KYC): The bank can improve their customer profiling and segmentation prediction which would boost the performance/success of the recommended personalized product for the targeted customer KYC is also useful for customer relationship management and credit risk assessment.
-v.   Proactive Credit Card Offerings: Based on the analysed data, there are customers who qualify to own a credit card based on their credit score and points earned.The Bank needs to be proactive by recommending their competitive credit card offerings to the qualified customers. The success of this recommendation should prove effective if the advantages of customer profiling is leveraged appropriately.
+i.   Customer Onboarding: A recommended course of action is for the Bank to strengthen its onboarding programmes for new clients and measure the effectiveness on customer retention.  
+ii.  Offer Personalized Products: In addition to having a great customer onboarding, the Bank should review or strengthen their personalized products, incentivize bundle packages and services that better meet the needs of different customer segments.  
+iii. Informative Newsletters: Based on the analysed data, it is important for the Bank to disseminate information to customers in an educative format through newsletters.Insights can be shared on spending habits, optimized credit card usage and ways to boost credit scores and the dangers of utilizing a high number of Banking products without fully understanding the product.  
+iv.  Know Your Customer (KYC): The bank can improve their customer profiling and segmentation prediction which would boost the performance/success of the recommended personalized product for the targeted customer KYC is also useful for customer relationship management and credit risk assessment.  
+v.   Proactive Credit Card Offerings: Based on the analysed data, there are customers who qualify to own a credit card based on their credit score and points earned.The Bank needs to be proactive by recommending their competitive credit card offerings to the qualified customers. The success of this recommendation should prove effective if the advantages of customer profiling is leveraged appropriately.  
 vi.  Demographics Matter: It is important to take into identify the differences amongst various demographics. Whether it is the culture, spending habits or credit utilization among other factors. They all comes into play when considering customer experience, customer satisfaction and
-product offerings.
-v.   Continuous Improvement: Continuous improvement and actively acting on customers’ feedback cannot be overemphasized.This will prove useful in improving the Bank’s customer satisfaction score if implemented correctly
-vi. What Matters: Based on the analysed data, the “Number of products” purchased by the customer has the most significant effect on customer churn. Other important features were credit card ownership and account balance. It is important for the Bank to pay attention to
-these features.
+product offerings.  
+v.   Continuous Improvement: Continuous improvement and actively acting on customers’ feedback cannot be overemphasized.This will prove useful in improving the Bank’s customer satisfaction score if implemented correctly.  
+vi. What Matters: Based on the analysed data, the “Number of products” purchased by the customer has the most significant effect on customer churn. Other important features were credit card ownership and account balance. It is important for the Bank to pay attention to these features.
